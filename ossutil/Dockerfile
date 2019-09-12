@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM ubuntu
 
 ENV OSSUTIL_VERSION 1.6.6
 
