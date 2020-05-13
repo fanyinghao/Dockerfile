@@ -1,0 +1,10 @@
+---
+version: "2.1"
+services:
+  iperf3:
+    image: fanyinghao/iperf3
+    container_name: iperf3
+    ports:
+      - 5201:5201
+      - 5201:5201/udp
+    restart: unless-stopped
