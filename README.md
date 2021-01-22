@@ -16,3 +16,7 @@ a collection of dockerfile for common utils
 * iperf3 - iPerf3 is a tool for active measurements of the maximum achievable bandwidth on IP networks.
 
     ![Docker Pulls](https://img.shields.io/docker/pulls/fanyinghao/iperf3?style=flat-square)
+
+* docsify - docsify cli - A magical documentation generator.
+
+    ![Docker Pulls](https://img.shields.io/docker/pulls/fanyinghao/docsify?style=flat-square)
